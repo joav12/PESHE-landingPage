@@ -1,0 +1,134 @@
+/* Header */
+.headerContainer{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    background-color: #074173;
+    height: 100px;
+
+    .logo{
+        width: 100px;
+        height: 100px;
+    }
+
+    .btnHomeContainer{
+        display: flex;
+        gap: 10px;
+        
+        a{ 
+            cursor: pointer;
+            text-decoration: none;
+            color: #fff;
+            transition: ease-in-out 0.2s;
+        }
+
+        a:hover{
+            color: #1679AB
+        }
+    }
+}
+
+/* Bem vindo */
+.bemVindoContainer{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1679AB;
+    color: #C5FF95;
+    margin-bottom: 20px;
+}
+
+/* Sobre nós */
+#sobre{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(#fff 0%, #1679AB 100%);
+
+    .textContainer{
+        inline-size: 400px;
+        overflow-wrap: break-word;
+    }
+}
+
+/* Nossa ambição */
+#ambicao{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(#1679AB 0%, #5DEBD7 100%);
+    color: #C5FF95;
+
+    .textContainer{
+        inline-size: 400px;
+        overflow-wrap: break-word;
+    }
+}
+
+/* Nossa equipe */
+#equipe{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #5DEBD7;
+    color: #074173;
+
+    .equipeContainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+
+        .pessoa{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+
+            img{
+                width: 200px;
+                height: 200px;
+                border-radius: 50%;
+            }
+
+            p{
+                color: #074173; 
+                font-size: 1.5rem; 
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+/* Newsletter */
+#newsletter{
+    padding: 10px;
+    background-color: #5DEBD7;
+    text-align: center;
+
+    .newsletterContent{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: start;
+        width: 400px;
+        margin: 0 auto;
+    }
+}
+
+/* Footer */
+footer{
+    background-color: #072c4d;
+    text-align: center;
+    color: #40a194;
+    font-size: 0.7;
+    padding: 20px;
+}
