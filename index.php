@@ -1,7 +1,3 @@
-<?php
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +34,9 @@
         <h2>Sobre nós</h2>
 
         <div class="textContainer">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad maiores numquam eos nisi nesciunt magnam totam sequi harum, ex vel praesentium a consectetur! Iste illum placeat fuga nisi et architecto facere, incidunt eligendi molestias aut omnis recusandae nam debitis nobis id repellendus ab cupiditate exercitationem fugiat deleniti dolor voluptates veniam ducimus ea? Veritatis ea incidunt maxime delectus, laborum rerum deleniti.</p>
+            <p>Peshe é uma plataforma inovadora dedicada a transformar a maneira como as empresas e entidades governamentais gerenciam seus recursos e resíduos. Fundada com a visão de promover a sustentabilidade ambiental, nossa missão é conectar os setores industrial, comercial e municipal para facilitar a reutilização de materiais, reduzir o desperdício e diminuir a poluição dos rios. Utilizando tecnologia avançada, oferecemos uma ferramenta poderosa que identifica oportunidades de sinergia entre esses setores, permitindo uma gestão mais eficaz de recursos e contribuindo para a preservação do meio ambiente.<br><br>
+
+            O Peshe foi criada por uma equipe de especialistas em tecnologia, gestão ambiental e desenvolvimento sustentável. Nosso compromisso é proporcionar soluções práticas que não só atendam às necessidades comerciais, mas que também promovam uma mudança positiva para o planeta. Nossa plataforma é um espaço onde as empresas podem colaborar, inovar e crescer juntas, enquanto fazem a sua parte para atingir os objetivos globais de desenvolvimento sustentável.</p>
         </div>
     </div>
 
@@ -47,7 +45,12 @@
         <h2>Nossa ambição</h2>
 
         <div class="textContainer">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad maiores numquam eos nisi nesciunt magnam totam sequi harum, ex vel praesentium a consectetur! Iste illum placeat fuga nisi et architecto facere, incidunt eligendi molestias aut omnis recusandae nam debitis nobis id repellendus ab cupiditate exercitationem fugiat deleniti dolor voluptates veniam ducimus ea? Veritatis ea incidunt maxime delectus, laborum rerum deleniti.</p>
+            <p>Nossa Ambição
+                O Peshe, aspiramos ser mais do que uma plataforma de negócios; nosso objetivo é ser um catalisador para a mudança ambiental global. Estamos empenhados em reduzir a pegada ecológica do setor empresarial, facilitando o desenvolvimento de uma economia circular que valorize o reuso e a reciclagem. Acreditamos que, ao conectar diferentes atores do mercado e otimizar o uso de recursos, podemos fazer uma diferença significativa na saúde dos nossos ecossistemas aquáticos e terrestres.<br><br>
+
+                Nossa ambição é liderar pelo exemplo, mostrando que práticas sustentáveis não apenas protegem o meio ambiente, mas também oferecem oportunidades econômicas substanciais. Enquanto trabalhamos para expandir nossa rede e capacidades, continuamos a inovar e a aprimorar nossas ofertas para garantir que cada cliente possa encontrar e implementar soluções que reduzam custos, aumentem a eficiência e, mais importante, conservem os recursos naturais do nosso planeta.<br><br>
+
+                Ambos os textos buscam refletir o compromisso da Peshe com a sustentabilidade e sua função em promover práticas de negócios que beneficiem o meio ambiente, alinhando-se assim com as expectativas dos stakeholders e possíveis investidores ou parceiros interessados na missão da empresa.</p>
         </div>
     </div>
 
