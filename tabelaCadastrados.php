@@ -33,7 +33,7 @@
                 <tr>
                     <td scope="row"><?=$campo["id"]?> </td>
                     <td><?=$campo["nome"]?> </td>
-                    <td><?=$campo["id"]?> </td>					
+                    <td><?=$campo["email"]?> </td>					
                 </tr>    
             <?php } ?>
         </table>
